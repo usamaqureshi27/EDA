@@ -10,7 +10,10 @@ By conducting exploratory data analysis, I will identify patterns, outliers, and
 
 ## Analysis Approach
 Main analysis approach after loading and cleaning the dataset will be:
+EDA approach of analyzing data sets to summarize their main characteristics, by using statistical graphics and other data visualization methods.  
 
+
+By conducting exploratory data analysis, I will identify patterns, outliers, and correlations in the data, allowing to make data-driven decisions and recommendations to optimize the store's operations and improve customer satisfaction.
 - Perform data visualization to gain insights into the dataset. Generate appropriate plots, such as histograms, scatter plots, or bar plots, to visualize different aspects of the data.
 - Analyze the sales trends over time. Identify the busiest months and days of the week in terms of sales.
 - Explore the top-selling products and countries based on the quantity sold.

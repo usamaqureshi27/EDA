@@ -4,7 +4,7 @@
 
 ###  Purpose of the Project
 
-In this project, I will be working with transactional data from an online retail store, to explore and analyze it to gain insights into the store's sales trends, customer behavior, and popular products.
+In this Coursera EDA project, I will be working with transactional data from an online retail store, to explore and analyze it to gain insights into the store's sales trends, customer behavior, and popular products.
 
 By conducting exploratory data analysis, I will identify patterns, outliers, and correlations in the data, allowing to make data-driven decisions and recommendations to optimize the store's operations and improve customer satisfaction. Through visualizations and statistical analysis, I will uncover key trends, such as the busiest sales months, best-selling products, and the store's most valuable customers. Ultimately, this project aims to provide actionable insights that can drive strategic business decisions and enhance the store's overall performance in the competitive online retail market.
 
@@ -25,6 +25,7 @@ is the "Online Retail" dataset which contains transactional data of an online re
 
 ### Built with
 + Python
++ The coursera lab file of this project is accessible [here.](https://hub.labs.coursera.org:443/connect/sharedqrldoobq?forceRefresh=false&path=%2Fnotebooks%2Fonline_retail.ipynb&isLabVersioning=file-prep)
 
 ## 2. Hotel Bookings
 
